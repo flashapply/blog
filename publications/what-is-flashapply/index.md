@@ -2,7 +2,7 @@
 title: Revolutionizing Job Applications in the Modern Age of Generative AI
 date: November 2nd, 2023
 slug: what-is-flashapply
-author: Simon Peter Damian
+author: FlashApply
 duration: 1minute read
 cover: cover.jpg
 ---
