@@ -1,8 +1,8 @@
 ---
-title: Revolutionizing Job Applications in the Modern Age of Generative AI and the Rise of AI Assistants
+title: Revolutionizing Job Applications in the Modern Age of Generative AI
 date: November 2nd, 2023
-slug: job-application-with-generative-ai
-author: The FlashApply Team
+slug: what-is-flashapply
+author: Simon Peter Damian
 duration: 1minute read
 cover: cover.jpg
 ---
@@ -42,4 +42,5 @@ The alternative is Autopilot, which will automatically send the job without need
 
 **Can I use FlashApply now?**
 
-Absolutely, it's ready, and feel free to give it a try. Our goal is to change the way people apply for jobs. FlashApply is your unfair advantage in a crowded job market.
+Absolutely, at the time of writing, FlashApply is in public beta and ready for use, and feel free to give it a try. Our goal is to change the way people apply for jobs.
+
