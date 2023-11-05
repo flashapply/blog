@@ -3,7 +3,7 @@ title: "Introducing FlashApply: Your AI-Powered Job Application Assistant"
 date: November 2nd, 2023
 slug: what-is-flashapply
 author: Simon Peter Damian
-duration: 1 minute read
+duration: 2 minutes read
 cover: cover.jpg
 ---
 
