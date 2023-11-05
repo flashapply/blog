@@ -7,7 +7,7 @@ duration: 1 minute read
 cover: cover.jpg
 ---
 
-In today's fast-paced world, job hunting can often feel overwhelming—cycling through job boards, fine-tuning resumes, and filling out application after application. FlashApply is here to transform the way you find and apply for jobs using AI and automation to streamline your job search and application process.
+In today's fast-paced world, job hunting can often feel overwhelming—cycling through job boards, fine-tuning resumes, and filling out application after application. FlashApply is here to transform the way you find and apply for jobs by using AI and automation to streamline your job search and application process.
 
 **How it works**
 
@@ -22,7 +22,7 @@ Once your job target is set, FlashApply uses this information to build a compreh
 When you're ready to apply, simply click **"Apply on LinkedIn"** to trigger the automation process. FlashApply takes over, searching for relevant jobs and applying to them one by one. If it encounters a question requiring your input, it references your personal knowledge base for answers. In cases where no answer is found, it uses "NIKB" (Not In Knowledge Base) as a placeholder.
 
 ![FlashApply application steps](./flash-apply-steps.png)
-_How FlashApply answers questions on your behalf_
+_FlashApply Application Steps: How FlashApply Answers Questions on Your Behalf_
 
 > Since FlashApply runs in copilot mode by default, all applications are put in a queue for you to review before they are sent out. Even if you turn on "Auto-pilot," applications where not all the questions can be answered are still put in a queue for you to review.
 
@@ -38,12 +38,12 @@ As of now, FlashApply does not generate cover letters or customize resumes for e
 
 **FlashApply vs manual applications**
 
-In the fast-paced world of job hunting, let's crunch the numbers to see how applying to 20 jobs manually stacks up against using FlashApply. When applying manually, you may spend an average of 10 to 25 minutes, depending on the nature of the job. This time is usually spent on;
+In the fast-paced world of job hunting, let's crunch the numbers to see how applying to 20 jobs manually stacks up against using FlashApply. When applying manually, you may spend an average of 10 to 25 minutes, depending on the nature of the job. This time is usually spent on:
 
-- reading job descriptions
-- assessing suitability
-- tracking applications
-- answering repetitive
+- Reading job descriptions
+- Assessing suitability
+- Tracking applications
+- Answering repetitive questions
 
 That easily adds up to a whopping 500 minutes or 8 hours and 20 minutes for all 20 applications.
 
@@ -51,8 +51,7 @@ Now, consider FlashApply's efficiency. With FlashApply, these tasks are streamli
 
 ![Manual Applications vs FlashApply for 20 jobs](./manual-vs-flash.png)
 
-FlashApply, is saving you significant 8 hours in the application process. With these extra hours, you can focus on honing your interview skills, networking, or simply enjoying some well-deserved relaxation while FlashApply handles the legwork of job hunting.
-
+FlashApply saves you a significant 8 hours in the application process. With these extra hours, you can focus on honing your interview skills, networking, or simply enjoying some well-deserved relaxation while FlashApply handles the legwork of job hunting.
 
 **What's Next?**
 
