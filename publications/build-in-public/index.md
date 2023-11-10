@@ -4,7 +4,7 @@ date: November 2nd, 2023
 slug: build-in-public
 author: Team FlashApply
 duration: 1 minute read
-cover: cover.jpeg
+cover: cover.jpg
 ---
 
 **Embracing Automation**
@@ -18,6 +18,4 @@ We invite you to join us as we share every step of our journey in building the f
 Yours truly,
 
 Team FlashApply
-
-[Get Started with FlashApply](https://flashapply.ai/home)
 
