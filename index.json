@@ -1,18 +1,18 @@
 [
 	{
+		"date": "November 10th, 2023",
+		"slug":"build-in-public",
+		"title": "We are Building in Public",
+		"author": "Team FlashApply",
+		"duration": "1 minute read",
+		"cover": "cover.jpg"
+	},
+	{
 		"date": "November 2nd, 2023",
 		"slug":"what-is-flashapply",
 		"title": "Introducing FlashApply: Your AI-Powered Job Application Assistant",
 		"author": "Simon Peter Damian",
 		"duration": "2 minutes read",
 		"cover": "cover.jpg"
-	},
-	{
-		"date": "November 10th, 2023",
-		"slug":"build-in-public",
-		"title": "We are Building in Public",
-		"author": "Team FlashApply",
-		"duration": "1 minute read",
-		"cover": "cover.jpeg"
 	}
 ]
