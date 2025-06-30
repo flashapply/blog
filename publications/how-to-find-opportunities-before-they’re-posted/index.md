@@ -4,7 +4,7 @@ date: December 5th, 2024
 slug: how-to-find-opportunities-before-they're-posted
 author: Team FlashApply
 duration: 5 minute read
-cover: cover.jpeg
+cover: cover.jpg
 ---
 
 ### Introduction
@@ -92,4 +92,3 @@ cover: cover.jpeg
 
 > 💬 Have you ever landed a job through the hidden job market? Share your story in the comments!
 > 📧 Looking for more tips? Follow us on LinkedIn for weekly career insights.
-
