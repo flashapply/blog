@@ -4,7 +4,7 @@ date: June 30th, 2025
 slug: jobago-ai-outplacement-future-of-work
 author: Team FlashApply
 duration: 5 minute read
-cover: cover.jpeg
+cover: image.png
 ---
 
 ## Jobago and the Future of AI-Driven Outplacement
