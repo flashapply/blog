@@ -1,5 +1,5 @@
 ---
-title: "The Hidden Job Market: How to Find Opportunities Before They’re Posted!"
+title: "The Hidden Job Market: How to Find Opportunities Before They are Posted"
 date: December 5th, 2024
 slug: how-to-find-opportunities-before-they-are-posted
 author: Team FlashApply
