@@ -1,5 +1,29 @@
 [
 	{
+		"date": "June 30th, 2025",
+		"slug": "jobago-ai-outplacement-future-of-work",
+		"title": "Jobago and the Future of AI-Driven Outplacement",
+		"author": "Team FlashApply",
+		"duration": "5 minutes read",
+		"cover": "image.png"
+	},
+	{
+		"date": "December 5th, 2024",
+		"slug": "how-to-find-opportunities-before-they're-posted",
+		"title": "The Hidden Job Market: How to Find Opportunities Before They're Posted!",
+		"author": "Team FlashApply",
+		"duration": "5 minutes read",
+		"cover": "cover.jpg"
+	},
+	{
+		"date": "November 28th, 2024",
+		"slug": "your-interview-cheat-sheet",
+		"title": "The Ultimate Cheat Sheet to Acing Your Next Interview (Even If You're Nervous)",
+		"author": "Team FlashApply",
+		"duration": "5 minutes read",
+		"cover": "cover.jpeg"
+	},
+	{
 		"date": "November 23rd, 2023",
 		"slug": "jobsearch-revolution-flashapply",
 		"title": "Get Ready for a Job Search Revolution",
@@ -22,29 +46,5 @@
 		"author": "Simon Peter Damian",
 		"duration": "2 minutes read",
 		"cover": "cover.jpg"
-	},
-	{
-		"date": "November 28th, 2024",
-		"slug": "your-interview-cheat-sheet",
-		"title": "The Ultimate Cheat Sheet to Acing Your Next Interview (Even If You’re Nervous)",
-		"author": "Team FlashApply",
-		"duration": "5 minutes read",
-		"cover": "cover.jpeg"
-	},
-	{
-		"date": "December 5th, 2024",
-		"slug": "how-to-find-opportunities-before-they're-posted",
-		"title": "The Hidden Job Market: How to Find Opportunities Before They’re Posted!",
-		"author": "Team FlashApply",
-		"duration": "5 minutes read",
-		"cover": "cover.jpeg"
-	},
-	{
-		"date": "June 30th, 2025",
-		"slug": "jobago-ai-outplacement-future-of-work",
-		"title": "Jobago and the Future of AI-Driven Outplacement",
-		"author": "Team FlashApply",
-		"duration": "5 minutes read",
-		"cover": "image.png"
 	}
 ]
